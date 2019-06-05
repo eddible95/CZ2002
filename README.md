@@ -1,1 +1,1 @@
-# CZ2002-
+# CZ2002 Object-Orientated Design & Principles Group Project
